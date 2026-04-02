@@ -206,9 +206,4 @@ MIT License - see LICENSE file for details
 ## Maintainer
 
 This project is actively maintained by Charan Reddy Manchala.
-
-Charan is a Salesforce Developer with 8 years of experience in designing, developing, and implementing innovative solutions. Expert in integrating Salesforce with external systems and optimizing applications for performance and scalability.
-
-- **GitHub**: CharanReddyManchala
-- **LinkedIn**: Charan Reddy Manchala
 - **Email**: charanreddymanchala9@gmail.com
